@@ -1,0 +1,100 @@
+	<!-- tabs -->
+	<div xclass="segments-page">
+		<div class="container">
+			<div class="row">
+				<div class="col s12">
+					<ul class="tabs z-depth-1">
+						<li class="tab col s3"><a class="active" href="#tabs1">Main Dishes</a></li>
+						<li class="tab col s3"><a href="#tabs2">Side Orders</a></li>
+						<li class="tab col s3"><a href="#tabs3">Drinks</a></li>
+					</ul>
+				</div>
+				<div id="tabs1" class="col s12">
+					<div class="contents-tabs">
+
+						<!-- shop -->
+	<div class="shop">
+			<div xclass="container">
+
+				<div class="row">
+					<div class="col s6">
+						<div class="contents z-depth-1">
+							<img src="images/food_01.jpg" alt="">
+							<a href="#">
+								<p>Zotech #1 Beef Potatoes & Green Beens</p>
+							</a>
+							<h5>$55</h5>
+						</div>
+					</div>
+					<div class="col s6">
+						<div class="contents z-depth-1">
+							<img src="images/food_02.jpg" alt="">
+							<a href="#">
+								<p>Zotech #2 Steak & Gravy Vegetables</p>
+							</a>
+							<h5>$65</h5>
+						</div>
+					</div>
+				</div>
+	
+				<div class="row">
+						<div class="col s6">
+							<div class="contents z-depth-1">
+								<img src="images/food_02.jpg" alt="">
+								<a href="#">
+									<p>Zotech #3 Beef Potatoes & Green Beens</p>
+								</a>
+								<h5>$75</h5>
+							</div>
+						</div>
+						<div class="col s6">
+							<div class="contents z-depth-1">
+								<img src="images/food_01.jpg" alt="">
+								<a href="#">
+									<p>Zotech #4 Beef Potatoes & Green Beens</p>
+								</a>
+								<h5>$85</h5>
+							</div>
+						</div>
+					</div>
+		
+			
+	
+				<div class="pagination">
+					<ul>
+						<li class="disabled"><a class="z-depth-1" href="#">1</a></li>
+						<li><a href="#">2</a></li>
+						<li><a href="#">3</a></li>
+						<li><a href="#">4</a></li>
+						<li><a href="#">5</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- shop -->
+	
+
+											</div>
+				</div>
+
+				<div id="tabs2" class="col s12">
+					<div class="contents-tabs">
+						<img src="images/blog3.jpg" alt="">
+						<h4>Light Photography</h4>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia, commodi, consequuntur. Mollitia voluptates cumque nemo possimus vitae explicabo labore itaque, laborum id quis molestias tenetur, in aspernatur provident quod eum!</p>
+					</div>
+				</div>
+				
+				<div id="tabs3" class="col s12">
+					<div class="contents-tabs">
+						<img src="images/blog2.jpg" alt="">
+						<h4>Photography Sports</h4>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia, commodi, consequuntur. Mollitia voluptates cumque nemo possimus vitae explicabo labore itaque, laborum id quis molestias tenetur, in aspernatur provident quod eum!</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end tabs -->
+
+ 
